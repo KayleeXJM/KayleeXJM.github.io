@@ -69,6 +69,15 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username: KayleeXJM
+linkedin_username: jiaming-kaylee-xu
+instagram_id: kayleexjm7 # your instagram id
+twitter_username: KayleeXu5
+
+# -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
