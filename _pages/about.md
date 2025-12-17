@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a Master’s student in Machine Learning (MSML) in the Machine Learning Department within the School of Computer Science at Carnegie Mellon University. Prior to CMU, I earned my B.S. in Data Science and Finance from New York University Shanghai, graduating summa cum laude with major honors in Data Science.
+
+I have industry experience as a Machine Learning Engineer Intern at TikTok, an LLM Algorithm Intern at TCL Technology, and a Technical Engineer Intern at RedNote (Xiaohongshu), where I worked on applied machine learning and large-scale AI systems.
+
+My current research interests focus on multimodal learning and diffusion-based generative models.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
