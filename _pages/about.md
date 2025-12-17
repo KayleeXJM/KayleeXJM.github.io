@@ -27,14 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master’s student in Machine Learning (MSML) in the Machine Learning Department within the School of Computer Science at Carnegie Mellon University. Prior to CMU, I earned my B.S. in Data Science and Finance from New York University Shanghai, graduating summa cum laude with major honors in Data Science.
+I am a Master’s student in Machine Learning (MSML) in the Machine Learning Department within the School of Computer Science at [**Carnegie Mellon University**](https://www.cmu.edu). Prior to CMU, I earned my B.S. in Data Science and Finance from [**New York University Shanghai**](https://shanghai.nyu.edu/), graduating _summa cum laude_ with **major honors in Data Science**.
 
-I have industry experience as a Machine Learning Engineer Intern at TikTok, an LLM Algorithm Intern at TCL Technology, and a Technical Engineer Intern at RedNote (Xiaohongshu), where I worked on applied machine learning and large-scale AI systems.
+I have industry experience as a Machine Learning Engineer Intern at [TikTok](https://lifeattiktok.com/teams/technology), an LLM Algorithm Intern at [TCL Technology](https://www.tcltech.com/en), and a Technical Engineer Intern at [RedNote (Xiaohongshu)](https://en.wikipedia.org/wiki/Xiaohongshu), where I worked on applied machine learning and large-scale AI systems.
 
-My current research interests focus on multimodal learning and diffusion-based generative models.
+My current research interests focus on multimodal learning and diffusion-based generative models. I'm working on multimodal foundation models for healthcare at the [Auton Lab](https://autonlab.org/), advised by [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/). In addition, I am interested in diffusion models and exploring research projects related to image-editing. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+In my spare time, I'm interested in music composition and am self-learning basic music techniques. I also love traveling, having been to Spain🇪🇸, France🇫🇷, England🇬🇧, Croatia🇭🇷, Australia🇦🇺, Japan🇯🇵, as well as many amazing places in the US🗽!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out to me if you have anything to discuss :D
