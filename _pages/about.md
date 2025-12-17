@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Email:** kayleex [at] cs [dot] cmu [dot] edu
+subtitle: "Email: kayleex [at] cs [dot] cmu [dot] edu"
 
 profile:
   align: right
