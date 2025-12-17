@@ -26,13 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Email: kayleex [at] cs [dot] cmu [dot] edu
 
 I am a Master’s student in Machine Learning (MSML) in the Machine Learning Department within the School of Computer Science at [**Carnegie Mellon University**](https://www.cmu.edu). Prior to CMU, I earned my B.S. in Data Science and Finance from [**New York University Shanghai**](https://shanghai.nyu.edu/), graduating _summa cum laude_ with **major honors in Data Science**.
 
 I have industry experience as a Machine Learning Engineer Intern at [TikTok](https://lifeattiktok.com/teams/technology), an LLM Algorithm Intern at [TCL Technology](https://www.tcltech.com/en), and a Technical Engineer Intern at [RedNote (Xiaohongshu)](https://en.wikipedia.org/wiki/Xiaohongshu), where I worked on applied machine learning and large-scale AI systems.
 
-My current research interests focus on multimodal learning and diffusion-based generative models. I'm working on multimodal foundation models for healthcare at the [Auton Lab](https://autonlab.org/), advised by [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/). In addition, I am interested in diffusion models and exploring research projects related to image-editing. 
+My current research interests focus on multimodal learning and diffusion-based generative models. I'm working on multimodal foundation models for healthcare at the [Auton Lab](https://autonlab.org/), advised by [Prof. Artur Dubrawski](https://www.ri.cmu.edu/ri-faculty/artur-w-dubrawski/). In addition, I am interested in diffusion models and their applications to image editing and generative modeling.
 
-In my spare time, I'm interested in music composition and am self-learning basic music techniques. I also love traveling, having been to Spain🇪🇸, France🇫🇷, England🇬🇧, Croatia🇭🇷, Australia🇦🇺, Japan🇯🇵, as well as many amazing places in the US🗽!
+Beyond academics, I enjoy music composition and am self-studying fundamental music theory and production techniques. I also enjoy traveling and have visited Spain🇪🇸, France🇫🇷, England🇬🇧, Croatia🇭🇷, Australia🇦🇺, Japan🇯🇵, as well as many amazing places across the US🗽!
 
-Feel free to reach out to me if you have anything to discuss :D
+Feel free to reach out to me if you would like to connect 🙌🏻
