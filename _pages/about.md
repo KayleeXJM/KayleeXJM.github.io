@@ -2,28 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: kayleex [at] cs [dot] cmu [dot] edu
+subtitle: **Email:** kayleex [at] cs [dot] cmu [dot] edu
 
 profile:
   align: right
   image: headshot2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
+    <p>MSML Student @ MLD, CMU</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
-
 
 I am a Master’s student in Machine Learning (MSML) in the Machine Learning Department within the School of Computer Science at [Carnegie Mellon University](https://www.cmu.edu). Prior to CMU, I earned my B.S. in Data Science and Finance from [New York University Shanghai](https://shanghai.nyu.edu/), graduating _summa cum laude_ with major honors in Data Science.
 
