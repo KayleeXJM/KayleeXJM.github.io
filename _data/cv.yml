@@ -5,6 +5,7 @@
       institution: Carnegie Mellon University, School of Computer Science
       year: 2025/08-2026/12
       description:
+      contents:
         - Coursework: Machine Learning (PhD-level), Advanced Deep Learning, Probability and Statistics, Computer Vision, Probabilistic Graphical Models, Convex Optimization, Diffusion Models and Flow-matching, Multimodal Machine Learning  
     - title: Bachelor of Science in Data Science and Finance
       institution: New York University, NYU Shanghai
