@@ -6,7 +6,7 @@ subtitle: "Email: kayleex [at] cs [dot] cmu [dot] edu"
 
 profile:
   align: right
-  image: headshot3.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
