@@ -6,7 +6,7 @@ subtitle: "Email: kayleex [at] cs [dot] cmu [dot] edu"
 
 profile:
   align: right
-  image: headshot2.jpg
+  image: headshot3.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>MSML Student @ MLD, CMU</p>
